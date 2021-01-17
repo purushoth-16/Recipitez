@@ -1,0 +1,9 @@
+.col-6 h1{
+    margin-left: 30%;
+    color: #e832b5;
+    font-style: inherit;
+    font-size: -webkit-xxx-large;
+}
+.row{
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
